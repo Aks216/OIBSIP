@@ -1,4 +1,5 @@
 LEVEL 1
+
 TASK 1
 
 LANDING PAGE
@@ -7,6 +8,7 @@ You will learn how to add columns, divide sections, arrange items, add headers, 
 The alignments, the padding, the color palette, boxes and all the other elements on the page require attention. Use CSS carefully to make sure the elements on the page do not overlap.
 
 LEVEL 1
+
 TASK 2
 
 PORTFOLIO
@@ -15,6 +17,7 @@ In a personal portfolio, you get to show a wide range of samples and skills and 
 You can add an image at the top where you can introduce yourself; below that, you can add contact information.
 
 LEVEL 1
+
 TASK 3
 
 TEMPERATURE CONVERTER WEBSITE
