@@ -1,4 +1,4 @@
-LEVEL 1
+1)LEVEL 1
 
 TASK 1
 
@@ -8,7 +8,7 @@ A landing page is one of the best web development projects for beginners. This p
 You will learn how to add columns, divide sections, arrange items, add headers, footers. Most importantly, you will use your creativity to make the page look impressive. 
 The alignments, the padding, the color palette, boxes and all the other elements on the page require attention. Use CSS carefully to make sure the elements on the page do not overlap.
 
-LEVEL 1
+2)LEVEL 1
 
 TASK 2
 
@@ -18,7 +18,7 @@ You can create a personal portfolio with the basic skills in CSS and HTML. This 
 In a personal portfolio, you get to show a wide range of samples and skills and add your resume. 
 You can add an image at the top where you can introduce yourself; below that, you can add contact information.
 
-LEVEL 1
+3)LEVEL 1
 
 TASK 3
 
